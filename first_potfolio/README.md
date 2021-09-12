@@ -160,4 +160,3 @@
 
 
 
-curl -u pratiksha3112 https://api.github.com/user/repos -d '{"name" : "pratiksha3112.github.io"}'
